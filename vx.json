@@ -1,0 +1,34 @@
+{
+    "created_time": "2025-09-03T15:47:31Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2025-09-03T15:47:31Z",
+            "id": "2",
+            "modified_time": "2025-09-03T15:47:31Z",
+            "name": ".gitignore",
+            "signature": "11731358993576649491",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-09-03T15:58:37Z",
+            "id": "8",
+            "modified_time": "2025-09-03T15:58:37Z",
+            "name": "LICENSE",
+            "signature": "9976523673843557805",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "软件开发"
+        }
+    ],
+    "id": "1",
+    "modified_time": "2025-09-03T15:47:31Z",
+    "signature": "5035242294617858835",
+    "version": 3
+}
